@@ -110,7 +110,7 @@ rtl-design-verification/
 │   │   └── mux16_tb.v
 │   └── screenshots/
 │       └── mux-waveform.png
-|       |-- mux-console-output.png
+|       └── mux-console-output.png
 │
 ├── 02-8bit-alu/
 │   ├── README.md
@@ -120,7 +120,7 @@ rtl-design-verification/
 │   │   └── Alu8_tb.v
 │   └── screenshots/
 │       └── Alu8-waveform.png
-|       |-- Alu8-console-output.png
+|       └── Alu8-console-output.png
 │
 └── 03-synchronous-fifo/
     ├── README.md
@@ -130,4 +130,4 @@ rtl-design-verification/
     │   └── sync_fifo_tb.v
     └── screenshots/
         └── sync-fifo-waveform.png
-        |-- sync_fif0-console-output.png
+        └── sync_fif0-console-output.png
